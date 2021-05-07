@@ -1,0 +1,21 @@
+.stock_search{
+    margin-bottom: 100px;
+    display: flex;
+    align-items: center;
+    height: 50px;
+    width: 300px;
+}
+
+.stock_input{
+    background: rgb(87, 84, 84);  
+    color: blanchedalmond;
+    border:none;
+    padding: 20px;
+    border-radius: 5px;
+    outline: none;
+    height: 100%;
+    width: 100%;
+}
+.stock_input::placeholder{
+    color: blanchedalmond;
+}
